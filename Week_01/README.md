@@ -185,11 +185,11 @@ Interface Queue<E>
 Interface Deque<E>
 ```
 
-![](/Users/lau/Documents/lau/AlgorithmLearning/GeekUniQIUZHAO/pics/DequeMethods.png)
+![Deque API](./pics/DequeMethods.png)
 
 ##### 与栈和队列的对比
 
-![](/Users/lau/Documents/lau/AlgorithmLearning/GeekUniQIUZHAO/pics/DequeMethodsComparison.png)
+![Comparison with Stack and Queue](./pics/DequeMethodsComparison.png)
 
 ##### 搜索文档方法
 
