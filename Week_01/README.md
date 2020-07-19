@@ -270,7 +270,7 @@ set.hash(value);
 
 ### 常用数据结构操作的复杂度表
 
-![](/Users/lau/Documents/lau/AlgorithmLearning/GeekUniQIUZHAO/pics/big_o_commom_data_structure_operations.png)
+![常用数据结构操作的复杂度表](./pics/big_o_commom_data_structure_operations.png)
 
 ----
 
