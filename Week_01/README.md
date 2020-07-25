@@ -102,7 +102,7 @@ class LinkedList {
 
 ##### 添加索引
 
-![SkipList添加索引](/Users/lau/Documents/lau/AlgorithmLearning/GeekUniQIUZHAO/pics/SkipList1.png)
+![SkipList添加索引](./pics/SkipList1.png)
 
 ##### 时间复杂度分析
 
