@@ -116,7 +116,7 @@ AVL 是一种**自平衡二叉查找树**，得名于其发明者 G. M. Adelson-
 3. 左右旋
 4. 右左旋
 
-![Tree_Rebalancing](/Users/lau/Documents/lau/AlgorithmLearning/LearningNotes/Algorithms/pics/Tree_Rebalancing.png)
+![Tree_Rebalancing](./pics/Tree_Rebalancing.png)
 
 **不足**：结点需要存储额外信息、且调整次数频繁
 
